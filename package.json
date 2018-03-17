@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/extreeme/estudosNode/issues"
   },
-  "homepage": "https://github.com/extreeme/estudosNode#readme"
+  "homepage": "https://github.com/extreeme/estudosNode#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
