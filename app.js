@@ -6,5 +6,5 @@ var rotaForm = require('./app/routes/formulario-inclusao-noticia')(app);
 
 
 app.listen(3000, function () {
-    console.log('Rodando o servidor')
+    console.log('Server ON')
 })
